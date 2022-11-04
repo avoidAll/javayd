@@ -13,9 +13,9 @@ public class VariableExample {
 			value2 = value1 -10;
 		}
 		
-		int result = value1 + value2 + 5;
+		// git 작업 추가 int result = value1 + value2 + 5;
 		
-		System.out.println(value1+", "+ value2 +", "+ result);
+		// git 작업 추가 System.out.println(value1+", "+ value2 +", "+ result);
 		
 		/***/
 		
