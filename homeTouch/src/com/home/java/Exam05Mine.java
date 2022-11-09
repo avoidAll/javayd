@@ -11,7 +11,6 @@ public class Exam05Mine {
 		int diceSize = 0;
 		
 		int diceNun = 0;
-		int[] list = new int[diceSize];
 
 		while (run) {
 			System.out.println("===1. 주사위 크기 | 2. 주사위 굴리기 | 3. 결과 보기 | 4. 가장 많이 나온 수 | 5. 종료===");
