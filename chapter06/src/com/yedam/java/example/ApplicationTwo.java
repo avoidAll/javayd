@@ -1,9 +1,6 @@
 package com.yedam.java.example;
 
-import java.util.Scanner;
-
 public class ApplicationTwo {
-	
 
 	public static void main(String[] args) {
 		// 원래라면 ExeApp app = new ExeApp(); 이런식인데
