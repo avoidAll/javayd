@@ -17,7 +17,7 @@ public class ObesityInfo extends StandardWeightInfo{
 		if(getObesity() >25 ) {
 			System.out.println(gethName()+"님의 신장 "+getHeight()+", 몸무게 "+getWeight()+", 비만입니다.");
 		} else {
-			System.out.println(gethName()+"님의 신장 "+getHeight()+", 몸무게 "+getWeight()+"입니다.");
+			System.out.println(gethName()+"님의 신장 "+getHeight()+", 몸무게 "+getWeight()+", 비만이 아닙니다.");
 		}
 	}
 	
