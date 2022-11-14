@@ -1,4 +1,4 @@
-package com.home.java.hw221111.Question1;
+package com.home.java.hw221111.question1;
 
 	/*\
 	 * Question 1]

@@ -1,4 +1,4 @@
-package com.home.java.hw221111.Question3;
+package com.home.java.hw221111.question3;
 
 public class Question3 {
 	public static void main(String[] args) {

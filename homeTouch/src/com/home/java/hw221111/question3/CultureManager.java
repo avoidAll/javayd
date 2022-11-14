@@ -1,4 +1,4 @@
-package com.home.java.hw221111.Question3;
+package com.home.java.hw221111.question3;
 
 import java.util.Scanner;
 

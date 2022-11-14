@@ -1,4 +1,4 @@
-package com.home.java.hw221111.Question2;
+package com.home.java.hw221111.question2;
 
 public class StandardWeightInfo extends Human{
 	
